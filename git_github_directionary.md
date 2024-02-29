@@ -560,10 +560,16 @@ blabllb
 
 </div>
 
-
-
-
-
 @'git diff'  "git diff"
 
+'get log' 
 
+`get log`
+
+```
+
+```
+
+`git status`
+
+![](C:\Users\evmyl\AppData\Roaming\marktext\images\2024-02-29-15-11-50-image.png)
