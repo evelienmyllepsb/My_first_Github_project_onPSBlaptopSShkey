@@ -601,3 +601,6 @@ ive made a feak mistake that i dont want to keep!
    ```
 
 4. Check your local repository to see if all the files are there!
+
+
+add new text to create conflict - doc 2
