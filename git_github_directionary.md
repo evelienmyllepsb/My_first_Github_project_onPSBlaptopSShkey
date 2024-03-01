@@ -601,3 +601,8 @@ ive made a feak mistake that i dont want to keep!
    ```
 
 4. Check your local repository to see if all the files are there!
+
+#Parallel timelines
+
+
+git branch we are trying to solve conflicts. so i changed the document in stead of doing this in marktext
