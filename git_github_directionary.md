@@ -579,7 +579,7 @@ test something else
 ive made a feak mistake that i dont want to keep!
 
 
-
+Hello Evelien I am happy to take this course with you!
 
 
 
