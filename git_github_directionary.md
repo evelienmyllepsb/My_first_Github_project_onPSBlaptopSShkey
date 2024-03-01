@@ -576,8 +576,28 @@ blabllb
 
 test something else
 
-
-
-
-
 ive made a feak mistake that i dont want to keep!
+
+
+
+
+
+
+
+
+
+# Collaboration
+
+
+
+1. Go to GitHub > Respository > Settings > Access > Collaborators.
+
+2. Add the collaborator and send an invite.
+
+3. Use `git clone <SSH repo>` into a NEW folder to take all the files from the remote repo of your collaborator.
+   
+   ```git
+   git clone git@github.com:evelienmyllepsb/My_first_Github_project_onPSBlaptopSShkey.git
+   ```
+
+4. Check your local repository to see if all the files are there!
