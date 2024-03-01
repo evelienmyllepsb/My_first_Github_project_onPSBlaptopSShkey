@@ -573,6 +573,7 @@ blabllb
 `git status`
 
 ![](C:\Users\evmyl\AppData\Roaming\marktext\images\2024-02-29-15-11-50-image.png)
+<<<<<<< HEAD
 
 test something else
 
@@ -581,3 +582,5 @@ test something else
 
 
 ive made a feak mistake that i dont want to keep!
+=======
+>>>>>>> parent of 57aa00d (test)
